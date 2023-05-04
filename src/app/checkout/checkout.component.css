@@ -69,3 +69,13 @@
 .bd-mode-toggle {
   z-index: 1500;
 }
+
+.btn{
+  padding: 10px;
+  transform: translate(-0%,-20%);
+}
+
+.container{
+  text-align: center;
+  transform: translate(16%,0%);
+}

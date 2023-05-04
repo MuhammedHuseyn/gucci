@@ -1,3 +1,17 @@
 .container {
-    max-width: 960px;
-  }
+  max-width: 960px;
+}
+
+.btnn button{
+  width: 100%;
+  background-color: rgb(44, 165, 221);
+  color: wheat;
+  float: right;
+}
+
+.btn{
+  width: 200px;
+  background-color: rgb(44, 165, 221);
+  color: white;
+  text-align: center;
+}
