@@ -1,7 +1,14 @@
 .container{
-    width: 3000px;
+    width: 35000px;
     height: 380px;
     background-color: black;
     color: white;
 }
+
+.mrg{
+    margin: 0;
+    width: 4000px;
+}
+
+
 
